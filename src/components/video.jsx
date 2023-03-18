@@ -9,7 +9,7 @@ function Video({ title,channel,views,time}) {
         <div>
          <h1>{title}</h1>
         </div>
-        <div className="channel">{channel}</div>
+        <div className="channel">{channel}✅</div>
         <div className="views">{views} <span>views.</span>{time}</div>
       </div>
       </>
