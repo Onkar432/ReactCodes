@@ -19,7 +19,7 @@ function App() {
             channel: 'Coder Dost',
             verified: true
           }]);
-        }}>Add Video</button>
+        }} style={{color: 'navy', backgroundColor: 'gold', height: '40px', width: '120px'}}>Add Video</button> >Add Video</button>
       </div>
       <div className='videoClass'>
         {
